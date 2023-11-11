@@ -34,6 +34,7 @@ LIMIT 10;_
 | Tempe             | 28.8       | 91350.0             | 84476.0            | 175826          | 26620.0                  | 200 |
 | Scottsdale        | 46.9       | 115712.0            | 121132.0           | 236844          | 27207.0                  | 200 |
 | Salinas           | 30.4       | 77765.0             | 79621.0            | 157386          | 58693.0                  | 200 |
+
 _Las tablas no son exactas, muestran una idea general del resultado de la consulta._
 
 Revisando los datos obtenidos, pudimos observar que la ciudad con peor calidad del aire era Syracuse, y observando más adetalle se puede notar que esto es debido a
@@ -60,6 +61,7 @@ LIMIT 10;_
 | Somerville    | 67.83             |
 | Boston        | 67.83             |
 | Lynn          | 67.79             |
+
 _Las tablas no son exactas, muestran una idea general del resultado de la consulta._
 
 Como podemos observar, efectivamente Syracuse, por su gran
@@ -89,6 +91,7 @@ LIMIT 10;_
 | San Diego        | 693826.0            | 701081.0           | 1394907         | 373842.0             | 187 |
 | Dallas           | 639019.0            | 661063.0           | 1300082         | 326825.0             | 37  |
 | San Jose         | 518317.0            | 508602.0           | 1026919         | 401493.0             | 191 |
+
 _Las tablas no son exactas, muestran una idea general del resultado de la consulta._
 
 Para abordar la interrogante sobre si las ciudades más pobladas presentan la peor calidad del aire, la conclusión es un claro NO. Estas ciudades no se encuentran ni cerca de ser catalogadas como las de peor calidad del aire. Este veredicto se atribuye principalmente a que la población no constituye un factor determinante por sí solo en este análisis. La evaluación de la calidad del aire depende de una serie de factores, que incluyen, pero no se limitan a, la población. Elementos como la influencia de la industria en la ciudad, el turismo, las políticas locales y hasta el tipo predominante de actividad económica desempeñan un papel crucial.
